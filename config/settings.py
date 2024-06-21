@@ -1,0 +1,2 @@
+# Configuration settings
+TELEGRAM_BOT_TOKEN = '7346984177:AAFu6c42IPoHmcKY8lrLh68zKAWtIXO1CmE'
